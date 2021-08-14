@@ -1,7 +1,15 @@
 ### Hi, I'm Sarel 👋
 *Pronunciation: Sah-rehl*
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][3].
+## I am a husband to an amazing wife, father to three wonderful children and a developer!
+
+### Connect with me:
+
+<!-- [<img align="left" alt="Sarel van der Walt" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Sarel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sarel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 <!-- Icons -->
 
@@ -27,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [website]: https://sarelvdwalt.co.za -->
+[twitter]: https://twitter.com/sfvdwalt
+[linkedin]: https://www.linkedin.com/in/sarel-van-der-walt-a251bb16/
